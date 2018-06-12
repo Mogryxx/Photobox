@@ -5,6 +5,7 @@ Fragen:
 
 Dokumentation:  Wie viele Seiten?
                 Anforderungen?
+                Was für Informationen soll die Doku oder Ph enthalten?
 Pflichtenheft?
 
 USB Micro auf weiblich bestellen!
