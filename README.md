@@ -10,5 +10,7 @@ Pflichtenheft?
 
 USB Micro auf weiblich bestellen!
 
-Marvin hat mit der Server "Programmierung" angefangen.
+Marvin: hat mit der Server "Programmierung" angefangen.
+Jacqueline: Kamera und alten USB Stick mitbringen (ab 16.6.)
+
 
