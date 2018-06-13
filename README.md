@@ -5,8 +5,12 @@ Fragen:
 
 Dokumentation:  Wie viele Seiten?
                 Anforderungen?
+                Quellcode des Projektes dokumentiert werden
+                Anforderungen des Projektes beschreiben
+                Sollte die Benutzung nicht selbsterklärend sein, bitte auch eine Anleitung für den Nutzer erstellen
                 Was für Informationen soll die Doku oder Ph enthalten?
-Pflichtenheft?
+                Pflichtenheft?
+                Ob als Pflichtenheft oder als User Story uns überlassen
 
 USB Micro auf weiblich bestellen!
 
